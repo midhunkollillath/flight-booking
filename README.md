@@ -7,4 +7,5 @@ Technologies: React JS, Next JS
 ## How to install?
 
 Install latest react version
+
 `npm start`
