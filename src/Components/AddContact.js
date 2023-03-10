@@ -7,10 +7,12 @@ class AddContact extends React.Component {
                 <form className='ui form' >
                   <div className='feild'>
                     <label>Name</label>
-                    <input type='text' name='name' placeholder='Name'
+                    <input type='text' name='name' placeholder='Name'/>
                   </div>
                 </form>
             </div>
         )
     }
 }
+
+export default AddContact
